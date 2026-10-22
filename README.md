@@ -5,4 +5,4 @@
 
 49.101.104.054- Nguyễn Văn Đoàn Bảo Huy - Phân tích yêu cầu 
 
-49.01.104.022 - Phạm Ngọc Duy - hokage làng lá
+49.01.104.022 - Phạm Ngọc Duy - Thiết kế test case
